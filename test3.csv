@@ -1,0 +1,488 @@
+﻿ids,labels,parents
+1,1,januari
+2,2,januari
+3,3,januari
+4,4,januari
+5,5,januari
+6,6,februari
+7,7,februari
+8,8,februari
+9,9,februari
+10,10,mars
+11,11,mars
+12,12,mars
+13,13,mars
+14,14,mars
+15,15,april
+16,16,april
+17,17,april
+18,18,april
+19,19,maj
+20,20,maj
+21,21,maj
+22,22,maj
+23,23,juni
+24,24,juni
+25,25,juni
+26,26,juni
+27,27,juni
+28,28,juli
+29,29,juli
+30,30,juli
+31,31,juli
+32,32,augusti
+33,33,augusti
+34,34,augusti
+35,35,augusti
+36,36,augusti
+37,37,september
+38,38,september
+39,39,september
+40,40,september
+41,41,oktober
+42,42,oktober
+43,43,oktober
+44,44,oktober
+45,45,november
+46,46,november
+47,47,november
+48,48,november
+49,49,november
+50,50,december
+51,51,december
+52,52,december
+53,53,december
+januari,januari,
+februari,februari,
+mars,mars,
+april,april,
+maj,maj,
+juni,juni,
+juli,juli,
+augusti,augusti,
+september,september,
+oktober,oktober,
+november,november,
+december,december,
+Aktivitet 1,Aktivitet 1,1
+Aktivitet 2,Aktivitet 2,1
+Aktivitet 3,Aktivitet 3,1
+Aktivitet 4,Aktivitet 4,1
+Aktivitet 5,Aktivitet 5,2
+Aktivitet 6,Aktivitet 6,2
+Aktivitet 7,Aktivitet 7,2
+Aktivitet 8,Aktivitet 8,2
+Aktivitet 9,Aktivitet 9,3
+Aktivitet 10,Aktivitet 10,3
+Aktivitet 11,Aktivitet 11,3
+Aktivitet 12,Aktivitet 12,3
+Aktivitet 13,Aktivitet 13,4
+Aktivitet 14,Aktivitet 14,4
+Aktivitet 15,Aktivitet 15,4
+Aktivitet 16,Aktivitet 16,4
+Aktivitet 17,Aktivitet 17,5
+Aktivitet 18,Aktivitet 18,5
+Aktivitet 19,Aktivitet 19,5
+Aktivitet 20,Aktivitet 20,5
+Aktivitet 21,Aktivitet 21,6
+Aktivitet 22,Aktivitet 22,6
+Aktivitet 23,Aktivitet 23,6
+Aktivitet 24,Aktivitet 24,6
+Aktivitet 25,Aktivitet 25,7
+Aktivitet 26,Aktivitet 26,7
+Aktivitet 27,Aktivitet 27,7
+Aktivitet 28,Aktivitet 28,7
+Aktivitet 29,Aktivitet 29,8
+Aktivitet 30,Aktivitet 30,8
+Aktivitet 31,Aktivitet 31,8
+Aktivitet 32,Aktivitet 32,8
+Aktivitet 33,Aktivitet 33,9
+Aktivitet 34,Aktivitet 34,9
+Aktivitet 35,Aktivitet 35,9
+Aktivitet 36,Aktivitet 36,9
+Aktivitet 37,Aktivitet 37,10
+Aktivitet 38,Aktivitet 38,10
+Aktivitet 39,Aktivitet 39,10
+Aktivitet 40,Aktivitet 40,10
+Aktivitet 41,Aktivitet 41,11
+Aktivitet 42,Aktivitet 42,11
+Aktivitet 43,Aktivitet 43,11
+Aktivitet 44,Aktivitet 44,11
+Aktivitet 45,Aktivitet 45,12
+Aktivitet 46,Aktivitet 46,12
+Aktivitet 47,Aktivitet 47,12
+Aktivitet 48,Aktivitet 48,12
+Aktivitet 49,Aktivitet 49,13
+Aktivitet 50,Aktivitet 50,13
+Aktivitet 51,Aktivitet 51,13
+Aktivitet 52,Aktivitet 52,13
+Aktivitet 53,Aktivitet 53,14
+Aktivitet 54,Aktivitet 54,14
+Aktivitet 55,Aktivitet 55,14
+Aktivitet 56,Aktivitet 56,14
+Aktivitet 57,Aktivitet 57,15
+Aktivitet 58,Aktivitet 58,15
+Aktivitet 59,Aktivitet 59,15
+Aktivitet 60,Aktivitet 60,15
+Aktivitet 61,Aktivitet 61,16
+Aktivitet 62,Aktivitet 62,16
+Aktivitet 63,Aktivitet 63,16
+Aktivitet 64,Aktivitet 64,16
+Aktivitet 65,Aktivitet 65,17
+Aktivitet 66,Aktivitet 66,17
+Aktivitet 67,Aktivitet 67,17
+Aktivitet 68,Aktivitet 68,17
+Aktivitet 69,Aktivitet 69,18
+Aktivitet 70,Aktivitet 70,18
+Aktivitet 71,Aktivitet 71,18
+Aktivitet 72,Aktivitet 72,18
+Aktivitet 73,Aktivitet 73,19
+Aktivitet 74,Aktivitet 74,19
+Aktivitet 75,Aktivitet 75,19
+Aktivitet 76,Aktivitet 76,19
+Aktivitet 77,Aktivitet 77,20
+Aktivitet 78,Aktivitet 78,20
+Aktivitet 79,Aktivitet 79,20
+Aktivitet 80,Aktivitet 80,20
+Aktivitet 81,Aktivitet 81,21
+Aktivitet 82,Aktivitet 82,21
+Aktivitet 83,Aktivitet 83,21
+Aktivitet 84,Aktivitet 84,21
+Aktivitet 85,Aktivitet 85,22
+Aktivitet 86,Aktivitet 86,22
+Aktivitet 87,Aktivitet 87,22
+Aktivitet 88,Aktivitet 88,22
+Aktivitet 89,Aktivitet 89,23
+Aktivitet 90,Aktivitet 90,23
+Aktivitet 91,Aktivitet 91,23
+Aktivitet 92,Aktivitet 92,23
+Aktivitet 93,Aktivitet 93,24
+Aktivitet 94,Aktivitet 94,24
+Aktivitet 95,Aktivitet 95,24
+Aktivitet 96,Aktivitet 96,24
+Aktivitet 97,Aktivitet 97,25
+Aktivitet 98,Aktivitet 98,25
+Aktivitet 99,Aktivitet 99,25
+Aktivitet 100,Aktivitet 100,25
+Aktivitet 101,Aktivitet 101,26
+Aktivitet 102,Aktivitet 102,26
+Aktivitet 103,Aktivitet 103,26
+Aktivitet 104,Aktivitet 104,26
+Aktivitet 105,Aktivitet 105,27
+Aktivitet 106,Aktivitet 106,27
+Aktivitet 107,Aktivitet 107,27
+Aktivitet 108,Aktivitet 108,27
+Aktivitet 109,Aktivitet 109,28
+Aktivitet 110,Aktivitet 110,28
+Aktivitet 111,Aktivitet 111,28
+Aktivitet 112,Aktivitet 112,28
+Aktivitet 113,Aktivitet 113,29
+Aktivitet 114,Aktivitet 114,29
+Aktivitet 115,Aktivitet 115,29
+Aktivitet 116,Aktivitet 116,29
+Aktivitet 117,Aktivitet 117,30
+Aktivitet 118,Aktivitet 118,30
+Aktivitet 119,Aktivitet 119,30
+Aktivitet 120,Aktivitet 120,30
+Aktivitet 121,Aktivitet 121,31
+Aktivitet 122,Aktivitet 122,31
+Aktivitet 123,Aktivitet 123,31
+Aktivitet 124,Aktivitet 124,31
+Aktivitet 125,Aktivitet 125,32
+Aktivitet 126,Aktivitet 126,32
+Aktivitet 127,Aktivitet 127,32
+Aktivitet 128,Aktivitet 128,32
+Aktivitet 129,Aktivitet 129,33
+Aktivitet 130,Aktivitet 130,33
+Aktivitet 131,Aktivitet 131,33
+Aktivitet 132,Aktivitet 132,33
+Aktivitet 133,Aktivitet 133,34
+Aktivitet 134,Aktivitet 134,34
+Aktivitet 135,Aktivitet 135,34
+Aktivitet 136,Aktivitet 136,34
+Aktivitet 137,Aktivitet 137,35
+Aktivitet 138,Aktivitet 138,35
+Aktivitet 139,Aktivitet 139,35
+Aktivitet 140,Aktivitet 140,35
+Aktivitet 141,Aktivitet 141,36
+Aktivitet 142,Aktivitet 142,36
+Aktivitet 143,Aktivitet 143,36
+Aktivitet 144,Aktivitet 144,36
+Aktivitet 145,Aktivitet 145,37
+Aktivitet 146,Aktivitet 146,37
+Aktivitet 147,Aktivitet 147,37
+Aktivitet 148,Aktivitet 148,37
+Aktivitet 149,Aktivitet 149,38
+Aktivitet 150,Aktivitet 150,38
+Aktivitet 151,Aktivitet 151,38
+Aktivitet 152,Aktivitet 152,38
+Aktivitet 153,Aktivitet 153,39
+Aktivitet 154,Aktivitet 154,39
+Aktivitet 155,Aktivitet 155,39
+Aktivitet 156,Aktivitet 156,39
+Aktivitet 157,Aktivitet 157,40
+Aktivitet 158,Aktivitet 158,40
+Aktivitet 159,Aktivitet 159,40
+Aktivitet 160,Aktivitet 160,40
+Aktivitet 161,Aktivitet 161,41
+Aktivitet 162,Aktivitet 162,41
+Aktivitet 163,Aktivitet 163,41
+Aktivitet 164,Aktivitet 164,41
+Aktivitet 165,Aktivitet 165,42
+Aktivitet 166,Aktivitet 166,42
+Aktivitet 167,Aktivitet 167,42
+Aktivitet 168,Aktivitet 168,42
+Aktivitet 169,Aktivitet 169,43
+Aktivitet 170,Aktivitet 170,43
+Aktivitet 171,Aktivitet 171,43
+Aktivitet 172,Aktivitet 172,43
+Aktivitet 173,Aktivitet 173,44
+Aktivitet 174,Aktivitet 174,44
+Aktivitet 175,Aktivitet 175,44
+Aktivitet 176,Aktivitet 176,44
+Aktivitet 177,Aktivitet 177,45
+Aktivitet 178,Aktivitet 178,45
+Aktivitet 179,Aktivitet 179,45
+Aktivitet 180,Aktivitet 180,45
+Aktivitet 181,Aktivitet 181,46
+Aktivitet 182,Aktivitet 182,46
+Aktivitet 183,Aktivitet 183,46
+Aktivitet 184,Aktivitet 184,46
+Aktivitet 185,Aktivitet 185,47
+Aktivitet 186,Aktivitet 186,47
+Aktivitet 187,Aktivitet 187,47
+Aktivitet 188,Aktivitet 188,47
+Aktivitet 189,Aktivitet 189,48
+Aktivitet 190,Aktivitet 190,48
+Aktivitet 191,Aktivitet 191,48
+Aktivitet 192,Aktivitet 192,48
+Aktivitet 193,Aktivitet 193,49
+Aktivitet 194,Aktivitet 194,49
+Aktivitet 195,Aktivitet 195,49
+Aktivitet 196,Aktivitet 196,49
+Aktivitet 197,Aktivitet 197,50
+Aktivitet 198,Aktivitet 198,50
+Aktivitet 199,Aktivitet 199,50
+Aktivitet 200,Aktivitet 200,50
+Aktivitet 201,Aktivitet 201,51
+Aktivitet 202,Aktivitet 202,51
+Aktivitet 203,Aktivitet 203,51
+Aktivitet 204,Aktivitet 204,51
+Aktivitet 205,Aktivitet 205,52
+Aktivitet 206,Aktivitet 206,52
+Aktivitet 207,Aktivitet 207,52
+Aktivitet 208,Aktivitet 208,52
+Aktivitet 209,Aktivitet 209,53
+Aktivitet 210,Aktivitet 210,53
+Aktivitet 211,Aktivitet 211,53
+Aktivitet 212,Aktivitet 212,53
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
